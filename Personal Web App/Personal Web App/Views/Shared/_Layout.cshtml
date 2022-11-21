@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width,
+    initial-scale=1.0">
+	<title>Oktay's CV</title>
+	<!----------------------------css--------------------------->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css">
+
+	<!----------------------------Font-------------------------->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	<!----------->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<Logo id="logo" draggable="true">
+		<img src="img/unnamed.jpg" alt="" draggable="false">
+	</Logo>
+
+	<header class="header">
+
+
+		<div class="header-list-container">
+			<ul class="header-list">
+				<li class="header-list-item"><a class="header-item-a" asp-action="About" asp-controller="Home" >ABOUT</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="Articles.html">ARTICLES</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="Language.html">LANGUAGES</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="">MEDIC</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="BookNotes.html">BOOK NOTES</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="">TECH</a></li>
+				<li class="header-list-item"><a class="header-item-a" href="Youtube.html">YOUTUBE</a></li>
+			</ul>
+		
+		</div>
+	</header>
+
+
+
+	<div class="cut">
+		<intro class="intro">
+			<div class="intro-grid">
+				<div class="h1"><h1>Hello World Waw</h1></div>
+				<div class="h2">
+					<h2>
+						Lorem ipsum dolor sit amet, consectetur
+						adipisicing elit. Doloremque quae ea at tempora incidunt
+						nemo dignissimos sint animi ducimu!s
+					</h2>
+				</div>
+				<div class="h2-2">
+					<h2>
+						Lorem ipsum dolor sit amet, consectetur
+						adipisicing elit. Doloremque quae ea at tempora incidunt
+						nemo dignissimos sint animi ducimu!s
+					</h2>
+				</div>
+				<div class="video">
+				</div>
+
+			</div>
+		</intro>
+	</div>
+
+
+	<div class="arrow">
+		<img src="/img/WebProject.png" draggable="false" alt="">
+		<P>Lorem ipsum dolor</P>
+	</div>
+
+
+
+	<main class="main">
+
+		@RenderBody();
+		<div class="boxContainer">
+			<a href="">
+				<div class="box"></div>
+			</a>
+			<a href="">
+				<div class="box"></div>
+			</a>
+			<a href="">
+				<div class="box"></div>
+			</a>
+			<a href="">
+				<div class="box"></div>
+			</a>
+		</div>
+
+	</main>
+
+	
+
+	<div class="details">
+	</div>
+
+
+
+	
+	<script src="js/main.js"></script>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@RenderSection("Scripts", required: false)
+</body>
+</html>

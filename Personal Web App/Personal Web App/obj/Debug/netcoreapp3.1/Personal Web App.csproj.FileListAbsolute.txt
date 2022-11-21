@@ -1,0 +1,115 @@
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.exe
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.deps.json
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.runtimeconfig.json
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.runtimeconfig.dev.json
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.pdb
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.Views.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Personal Web App.Views.pdb
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.csproj.AssemblyReference.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.AssemblyInfoInputs.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.AssemblyInfo.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.csproj.CoreCompileInputs.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.MvcApplicationPartsAssemblyInfo.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.RazorAssemblyInfo.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.RazorAssemblyInfo.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\Personal Web App.StaticWebAssets.Manifest.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\Personal Web App.StaticWebAssets.Pack.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Personal Web App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Personal Web App.props
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Personal Web App.props
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Personal Web App.props
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.TagHelpers.input.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.TagHelpers.output.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.RazorCoreGenerate.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.RazorTargetAssemblyInfo.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.RazorTargetAssemblyInfo.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.Views.pdb
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.pdb
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.genruntimeconfig.cache
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Personal Web App.csproj.CopyComplete
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
