@@ -28,8 +28,23 @@ namespace Personal_Web_App.Controllers
         {
             return View();
         }
+        public IActionResult Article()
+        {
+            return View();
+        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult News()
+        {
+            return View();
+        }
+
+		public IActionResult Admin()
+		{
+			return View();
+		}
+
+
+		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

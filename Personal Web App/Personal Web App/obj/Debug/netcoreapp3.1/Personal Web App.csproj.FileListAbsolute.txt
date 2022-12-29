@@ -110,6 +110,8 @@ D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3
 D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_About.cshtml.g.cs
 D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Article.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\News.cshtml.g.cs
+D:\Github\Html-Css-Proje\Personal Web App\Personal Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Admin.cshtml.g.cs

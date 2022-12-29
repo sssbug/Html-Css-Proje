@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Amin";
+    Layout = "~/Views/Shared/_About.cshtml";
+}
+
+<div class="container">
+    <div class="card-stack">
+        <a class="buttons prev" href="#" draggable="false" style="cursor:default">
+            <
+        </a>
+        <ul class="card-list">
+            @for (int i = 0; i < 5; i++)
+            {
+                <li class="card" id="fifth" style="background-color: rgb(151, 151, 151);">
+                    <div class="box">    
+                       <textarea cols="100" rows="70">
+
+                       </textarea>
+                        
+                    </div>
+
+                </li>
+            }
+
+
+
+
+
+        </ul>
+        <a class="buttons next" href="#" draggable="false" style="cursor:default">></a>
+    </div>
+
+</div>

@@ -30,12 +30,12 @@
 		<div class="header-list-container">
 			<ul class="header-list">
 				<li class="header-list-item"><a class="header-item-a" asp-action="About" asp-controller="Home" >ABOUT</a></li>
-				<li class="header-list-item"><a class="header-item-a" href="Articles.html">ARTICLES</a></li>
+				<li class="header-list-item"><a class="header-item-a" asp-action="Article" asp-controller="Home">ARTICLES</a></li>
 				<li class="header-list-item"><a class="header-item-a" href="Language.html">LANGUAGES</a></li>
 				<li class="header-list-item"><a class="header-item-a" href="">MEDIC</a></li>
 				<li class="header-list-item"><a class="header-item-a" href="BookNotes.html">BOOK NOTES</a></li>
 				<li class="header-list-item"><a class="header-item-a" href="">TECH</a></li>
-				<li class="header-list-item"><a class="header-item-a" href="Youtube.html">YOUTUBE</a></li>
+				<li class="header-list-item"><a class="header-item-a" asp-action="Admin" asp-controller="Home">ADMIN</a></li>
 			</ul>
 		
 		</div>
@@ -79,20 +79,7 @@
 	<main class="main">
 
 		@RenderBody();
-		<div class="boxContainer">
-			<a href="">
-				<div class="box"></div>
-			</a>
-			<a href="">
-				<div class="box"></div>
-			</a>
-			<a href="">
-				<div class="box"></div>
-			</a>
-			<a href="">
-				<div class="box"></div>
-			</a>
-		</div>
+		
 
 	</main>
 
